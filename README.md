@@ -51,3 +51,5 @@ cd ../../sources/tmp/deploy/images/beaglebone-yocto
 ```
 
 ### Understanding local.conf syntax
+
+local.conf file is used to customize the image to install the packages we need 
